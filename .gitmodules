@@ -7,4 +7,4 @@
 	url = https://github.com/lvgl/lvgl.git
 [submodule "components/lvgl_esp32_drivers"]
 	path = components/lvgl_esp32_drivers
-	url = https://github.com/AramVartanyan/lvgl_esp32_drivers.git
+	url = https://github.com/VitorAlho/lvgl_esp32_drivers
